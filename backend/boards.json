@@ -1,0 +1,31 @@
+[
+  {
+    "id": "3a4eacdb-fd07-4c7f-b9ad-3292b7edc65e",
+    "userId": "a54ab80e-2a69-40d7-87b7-8a5d0a0ff897",
+    "title": "My Retro Board1",
+    "columns": {
+      "Start": [
+        {
+          "id": 1757001774535,
+          "text": "Task0"
+        }
+      ],
+      "Stop": [],
+      "Continue": []
+    },
+    "createdAt": 1757001718016,
+    "updatedAt": 1757001774581
+  },
+  {
+    "id": "82451799-7bdf-4212-911c-bee8ee9bfaf1",
+    "userId": "a839611f-c31d-41c2-bf8c-c65caf4fc1ae",
+    "title": "My Retro Board1",
+    "columns": {
+      "Start": [],
+      "Stop": [],
+      "Continue": []
+    },
+    "createdAt": 1757001922731,
+    "updatedAt": 1757001922731
+  }
+]
