@@ -1,15 +1,13 @@
 {
-  "name": "backend",
+  "name": "retro-backend",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "main": "server.js",
+  "license": "MIT",
   "dependencies": {
-    "uuid": "^11.1.0"
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
   }
 }
